@@ -3,11 +3,11 @@
 This is an extensions for the [Bulma CSS Framework](http://bulma.io). It adds a `steps` component to
 track progress in multi step forms or wizards.
 
-[![Steps example for a checkout form](steps-example.png)](https://aramvisser.github.io/bulma-steps)
+[![Steps example for a checkout form](steps-example.png)](https://atlas-bi.github.io/bulma-steps)
 
 ## Documentation
 
-[Usage & Examples](https://aramvisser.github.io/bulma-steps)
+[Usage & Examples](https://atlas-bi.github.io/bulma-steps)
 
 I'm trying to keep this working with the latest available Bulma version. Currently tracking: **bulma
 v0.5.3**. Other versions _should_ work, but no promises.
@@ -16,7 +16,7 @@ v0.5.3**. Other versions _should_ work, but no promises.
 
 ### NPM
 
-`npm install bulma-steps-component`
+`npm install git+https://github.com/atlas-bi/bulma-steps`
 
 ### Manually
 
